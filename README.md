@@ -1,4 +1,5 @@
 # manager-api
+[![](https://jitpack.io/v/CSSUDII/manager-api.svg)](https://jitpack.io/#CSSUDII/manager-api)
 
 ## Gradle
 ```java
