@@ -10,6 +10,7 @@ repositories {
 
 
 Replace "tag" with the release or commit you want to use
+Latest version: `v0.0.1`
 ```java
 implementation 'com.github.CSSUDII:manager-api:Tag'
 ```
